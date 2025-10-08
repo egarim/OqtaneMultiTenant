@@ -55,7 +55,7 @@ The multi-tenant configuration is defined in `Server/appsettings.json`:
 ## Tenant Switching Demo
 
 ### Multi-Tenant Navigation
-![Tenant Switching Demo](OqTenantsMultiTenant.gif)
+![Tenant Switching Demo](OqtaneMultiTenant.gif)
 
 The above GIF demonstrates how users can seamlessly switch between different tenant sites within the same Oqtane application. This shows:
 
